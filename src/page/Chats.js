@@ -39,7 +39,7 @@ const CHATS_LIST = [
     id: 2,
     photo: DimaPhoto,
     name: "Діма",
-    message: "Відкрийте двері",
+    message: "Відкрийте двері, будь ласка!",
     isUnread: true,
     time: "10:11"
   },
@@ -48,7 +48,7 @@ const CHATS_LIST = [
     photo: FamilyPhoto,
     name: "Родичі",
     message: "Хто вдома?",
-    time: "08:24",
+    time: "09:24",
     messageAmount: 1,
     user: "Мама"
   },
