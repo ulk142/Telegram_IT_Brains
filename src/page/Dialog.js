@@ -24,13 +24,13 @@ const MESSAGE_LIST = [
     id: 1,
     message: "Привіт. Як справи?",
     isMe: true,
-    time: "11:22"
+    time: "10:22"
   },
   {
     id: 2,
     message: "Все добре. В тебе як?",
     isMe: false,
-    time: "11:23"
+    time: "10:23"
   }
 ];
 
